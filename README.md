@@ -1,7 +1,5 @@
 # Website-Phishing
 
-Topic:
-Website Phishing
 
 Dataset: 
 1.	The dataset of phishing websites will be collected from the UCI Machine Learning Repository, which is freely available for use. 
