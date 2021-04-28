@@ -26,7 +26,7 @@ References:
 2. https://archive.ics.uci.edu/ml/datasets/phishing+websites
 3. http://www.antiphishing.org/trendsreports/
 4. https://archive.ics.uci.edu/ml/machine-learning-databases/00327/Phishing%20Websites%20Features.docx
-5.https://www.researchgate.net/publication/261081735_An_assessment_of_features_related_to_phishing_websites_using_an_automated_technique
+5. https://www.researchgate.net/publication/261081735_An_assessment_of_features_related_to_phishing_websites_using_an_automated_technique
 6. https://pypi.org/project/kmodes/
 7. http://ijarcet.org/wp-content/uploads/IJARCET-VOL-3-ISSUE-5-1584-1589.pdf
 8. https://www.ijcaonline.org/archives/volume145/number10/narad-2016-ijca-910767.pdf
